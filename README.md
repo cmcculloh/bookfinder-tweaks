@@ -4,7 +4,14 @@ A series of tampermonkey scripts to make price lookup on bookfinder.com easier
 
 ## Pre-requisites
 
+You have to be in Chrome
+
 Install [Tampermonkey](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?pli=1)
+
+You might want to click on this little puzzle-piece in the toolbar and "pin" the tampermonkey extension for easy access:
+
+![image](https://github.com/cmcculloh/bookfinder-tweaks/assets/157303/48b49974-7ffb-41a5-8042-0e3a21a9b538)
+
 
 ## installation
 
