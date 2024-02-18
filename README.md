@@ -26,14 +26,15 @@ Install [Tampermonkey](https://chromewebstore.google.com/detail/tampermonkey/dhd
    ![image](https://github.com/cmcculloh/bookfinder-tweaks/assets/157303/24948f6c-e614-4088-9077-47597a2f3777)
 
 8. Paste in `https://raw.githubusercontent.com/cmcculloh/bookfinder-tweaks/master/script.price.js` (and click "install")
-   - ![image](https://github.com/cmcculloh/bookfinder-tweaks/assets/157303/647752de-babd-4315-a4d5-0f433b67c29b)
-9. Click "Install"
 
-   ![image](https://github.com/cmcculloh/bookfinder-tweaks/assets/157303/3c935ff6-8c2a-49b0-ba18-24695271232b)
+   ![image](https://github.com/cmcculloh/bookfinder-tweaks/assets/157303/647752de-babd-4315-a4d5-0f433b67c29b)
+10. Click "Install"
+   
+    ![image](https://github.com/cmcculloh/bookfinder-tweaks/assets/157303/3c935ff6-8c2a-49b0-ba18-24695271232b)
 
-   - (You should see an "operation completed successfully" message:
+    - (You should see an "operation completed successfully" message:
 
-   ![image](https://github.com/cmcculloh/bookfinder-tweaks/assets/157303/24948f6c-e614-4088-9077-47597a2f3777)
+    ![image](https://github.com/cmcculloh/bookfinder-tweaks/assets/157303/24948f6c-e614-4088-9077-47597a2f3777)
 
 
 
